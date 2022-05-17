@@ -14,7 +14,7 @@ function ControlledCarousel(props) {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="holder.js/800x400?text=First slide&bg=373940"
+      src="https://image.thanhnien.vn/w1024/Uploaded/2022/yfrph/2022_05_16/tim-cook-5689.jpeg"
       alt="First slide"
     />
     <Carousel.Caption>
@@ -25,7 +25,7 @@ function ControlledCarousel(props) {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="holder.js/800x400?text=Second slide&bg=282c34"
+      src="https://vnn-imgs-f.vgcloud.vn/2021/12/24/09/tiet-lo-moi-ve-man-hinh-khong-tai-tho-cua-iphone-14-pro-va-pro-max.jpg"
       alt="Second slide"
     />
 
@@ -37,7 +37,7 @@ function ControlledCarousel(props) {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="holder.js/800x400?text=Third slide&bg=20232a"
+      src="https://cdn.tgdd.vn/Products/Images/42/236780/Slider/iphone-13mini-1020x570.jpg"
       alt="Third slide"
     />
 
